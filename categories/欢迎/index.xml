@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>欢迎 on 星沉xingch</title>
+        <link>http://localhost:1313/categories/%E6%AC%A2%E8%BF%8E/</link>
+        <description>Recent content in 欢迎 on 星沉xingch</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>星沉xingch</copyright>
+        <lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%AC%A2%E8%BF%8E/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>网站装修好啦</title>
+        <link>http://localhost:1313/p/%E7%BD%91%E7%AB%99%E8%A3%85%E4%BF%AE%E5%A5%BD%E5%95%A6/</link>
+        <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/%E7%BD%91%E7%AB%99%E8%A3%85%E4%BF%AE%E5%A5%BD%E5%95%A6/</guid>
+        <description>&lt;img src="http://localhost:1313/p/%E7%BD%91%E7%AB%99%E8%A3%85%E4%BF%AE%E5%A5%BD%E5%95%A6/151845622.jpg" alt="Featured image of post 网站装修好啦" /&gt;&lt;h2 id=&#34;这是什么网站&#34;&gt;这是什么网站
+&lt;/h2&gt;&lt;p&gt;一个简单的个人博客，我还在学习，希望日后能将这个网站做的更好&lt;/p&gt;
+&lt;h2 id=&#34;关于评论系统&#34;&gt;关于评论系统
+&lt;/h2&gt;&lt;p&gt;为了省事，采用了最简单的utterances，登录github就能使用了，但有个缺陷，没有楼中楼，日后或许会换一套评论系统。&lt;/p&gt;
+&lt;h2 id=&#34;会发什么&#34;&gt;会发什么
+&lt;/h2&gt;&lt;p&gt;一些资源，日常，也希望来到这个网站的你投稿~&lt;/p&gt;
+&lt;h2 id=&#34;图片pid&#34;&gt;图片pid
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;id151845622&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
